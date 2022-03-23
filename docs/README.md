@@ -63,7 +63,7 @@ Authenticate to neo4j in the web console with username neo4j, password neo4j. Yo
 
 ## Download the BloodHound GUI
 
-Download the latest version of the [BloodHound GUI](https://github.com/BloodHoundAD/BloodHound/releases/download/rolling/BloodHound-linux-x64.zip)
+Download the latest version of the [BloodHound GUI](https://github.com/BloodHoundAD/BloodHound/releases/)
 ~~~
 wget https://github.com/BloodHoundAD/BloodHound/releases/download/rolling/BloodHound-linux-x64.zip
 ~~~
