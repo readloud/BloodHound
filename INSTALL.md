@@ -73,7 +73,7 @@ wget https://github.com/BloodHoundAD/BloodHound/releases/download/rolling/BloodH
 ~~~
 
 Authenticate with the credentials you set up for neo4j
-Alternative: Build the BloodHound GUI Install [NodeJS](DEB.md)
+Alternative: Build the BloodHound GUI Install [odeSource Node.js Binary Distributions](DEB.md)
 
 *Install electron-packager:
 ~~~
@@ -91,3 +91,11 @@ npm install
 ~~~
 npm run build linuxbuild
 ~~~
+or
+*Build BloodHound with ‘npm run build’ to create `BloodHound-linux-xxx`:
+~~~
+npm run build
+~~~
+
+## The BloodHound GUI
+The BloodHound GUI is where the vast majority of your data analysis will happen. Our primary objectives in designing the BloodHound GUI are intuitive design and operational focus. In other words, we want you to get access to the data you need as [easily and quickly](USAGE.md) as possible.
