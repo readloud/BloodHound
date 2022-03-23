@@ -1,6 +1,6 @@
-[![NodeSource](https://nodesource.com) Node.js Binary Distributions
+# [NodeSource](https://nodesource.com) Node.js Binary Distributions
 
-[![NodeSource](images/ns-linux-distributions.svg)](https://nodesource.com)
+[![NodeSource](https://github.com/nodesource/distributions/blob/master/images/ns-linux-distributions.svg)](https://nodesource.com)
 
 [![CircleCI](https://circleci.com/gh/nodesource/distributions/tree/master.svg?style=svg)](https://circleci.com/gh/nodesource/distributions/tree/master)
 
