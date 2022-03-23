@@ -207,3 +207,6 @@ In the upper right are several menu items for you to interact with. From the top
 - Change Layout Type: Switch between hierarchial or force directed layout
 - Settings: Configure node and edge display settings, as well as query debug mode, low detail mode, and dark mode here.
 - About: Displays author and version information
+
+### Read more
+A collection of [tools](https://github.com/zeronetworks/BloodHound-Tools.git) that integrate to [BloodHound](https://github.com/BloodHoundAD/BloodHound).
