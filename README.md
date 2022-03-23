@@ -3,7 +3,7 @@
 
 # Getting Started with BloodHound
 
-To get started with BloodHound, check out the [BloodHound docs.](https://bloodhound.readthedocs.io/en/latest/index.html)
+To get started with BloodHound, check out the [BloodHound docs.](https://bloodhound.readthedocs.io/en/latest/index.html) or [Read How to INSTALL](https://github.com/readloud/BloodHound/blob/master/INSTALL.md)
 
 # About BloodHound
 
