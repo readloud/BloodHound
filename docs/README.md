@@ -74,7 +74,7 @@ wget https://github.com/BloodHoundAD/BloodHound/releases/download/rolling/BloodH
 ~~~
 
 Authenticate with the credentials you set up for neo4j
-Alternative: Build the BloodHound GUI Install [odeSource Node.js Binary Distributions](DEB.md)
+Alternative: Build the BloodHound GUI Install [Node.js Binary Distributions](https://github.com/readloud/BloodHound/blob/master/docs/Node.jsBinaryDistributions.md)
 
 *Install electron-packager:
 ~~~
